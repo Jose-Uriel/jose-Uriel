@@ -1,7 +1,7 @@
 ## Hi there 👋
 - Studying to become a software development technologist. (Currently in seventh semester)
 - I'm interested in Game Development
-- I am currently studying the .NET framework
+- I'm currently studying the .NET framework
 
 <!--
 **Jose-Uriel/jose-Uriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
